@@ -2,3 +2,5 @@ streamlit
 scikit-learn
 numpy
 fpdf
+gspread
+oauth2client
